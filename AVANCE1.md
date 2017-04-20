@@ -6,4 +6,4 @@ Se realizará el pre-procesamiento de los datos, Mapeo a genoma de referencia, B
 
 **TIPOS DE DATOS**
 
-Se analizarán datos genomicos de cloroplasto de *Vanilla planifolia* que pertenecen al Laboratorio de Bioquimica Molecular de la FES Iztacala. 
+Se analizarán datos genomicos de 4 transcriptomas pertenecientes a 2 quimiotipos diferentes de *Vanilla planifolia* que pertenecen al Laboratorio de Bioquimica Molecular de la FES Iztacala. 
