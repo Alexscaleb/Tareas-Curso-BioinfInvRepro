@@ -1,6 +1,6 @@
-##**Avance 2**
+## **Avance 2**
 
-#*Querido diario :)*
+# *Querido diario :)*
 
 Ya encontré y descargué el genoma de referencia de cloroplasto en *Vanilla planifolia* que tiene el ID KJ566306.
 
