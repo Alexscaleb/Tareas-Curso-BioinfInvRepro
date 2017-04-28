@@ -4,13 +4,13 @@
 
 Ya encontré y descargué el genoma de referencia de cloroplasto en *Vanilla planifolia* que tiene el ID KJ566306.
 
-Ya descargué el programa trinity que será utilizado para enzamblar las secuencias de los transcriptomas (sigo en revisión de los comandos que resulten mas adecuados).
+Ya descargué el programa *TRINITY* que será utilizado para enzamblar las secuencias de los transcriptomas (sigo en revisión de los comandos que resulten mas adecuados).
 
-Leí tambien el manual del software *Velvet* pero decidí trabajar con Trinity.
+Leí tambien el manual del software *VELVET* pero decidí trabajar con *TRINITY*.
 
 Se esta buscando un software apropiado para el mapeo a genoma de referencia y busqueda de SNPs (considero el software STACKS) 
 
-La limpieza de los datos se realizará con FASTQC como fue visto en clase
+La limpieza de los datos se realizará con *FASTQC* como fue visto en clase
 
 **Articulos leidos**
 
