@@ -1,4 +1,4 @@
-#README!!!!
+# README!!!!
 
 La carpeta Proyecto_Alejandro_Rodriguez contiene datos de 4 trascriptomas de cloroplasto de *Vanila planifolia* que se subdivide en diferentes carpetas:
 
