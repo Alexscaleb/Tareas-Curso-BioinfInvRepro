@@ -1,4 +1,4 @@
-#**AVANCE 3 **
+# **AVANCE 3 **
 
 En un principio se trato de trabajar con 4 transcriptomas de *Vanila planifolia*, sin embargo, al tratar de procesar los datos estos eran muy pesados lo cual "atontaba" demasiado mi maquina por lo que decidí usar solo los transcriptomas del cloroplasto. 
 
