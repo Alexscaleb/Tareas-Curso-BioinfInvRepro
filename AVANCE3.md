@@ -15,8 +15,11 @@ En un principio se trato de trabajar con 4 transcriptomas de *Vanila planifolia*
 **PENDIENTES**
 
 1.hacer llamado de los SNP's 
+
 2.generar un árbol
+
 3.graficar
+
 4.completar [README](https://github.com/Alexscaleb/Tareas-Curso-BioinfInvRepro/blob/master/README!.md)
 
 
