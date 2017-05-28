@@ -19,10 +19,13 @@ La carpeta scripts contiene diferentes scrips numerados para el proyecto.
 
 **3.LLamado_de_SNP's** este *script*  hace el llamado de SNP's e INDEL's. Nos generá archivos .bam .bcf .vcf.zip
 
+**4.GraficaR.r** este *script* genera las graficas para el número de SNP's y el número de INDEL's. 
+
 
 ## Resumen
 
 El archivo RESUMEN.md contiene un escrito en donde se menciona a detalle los ánalis realizados asi como una breve explicación de los resultados obtenidos. 
+
 
 ## Objetivo general:
 
